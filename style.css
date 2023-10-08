@@ -1,0 +1,99 @@
+body {
+   margin: 0%;
+   text-align: center;
+   font-family: "Merriweather", serif;
+}
+
+.top-container {
+    background-color: rgb(225, 250, 253);
+    padding-top: 100px;
+}
+
+h1 {
+    font-size: 5.625rem;
+    color: #66bfbf;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+ 
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    font-family: "Montserrat", sans-serif;
+    color: #66bfbf;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.middle-container {
+    margin-top: 100px;
+}
+
+.profile {
+    border-radius: 50%;
+}
+
+hr {
+    border: dotted rgb(159, 234, 236);
+    border-bottom: none;
+    width: 4%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+p {
+   font-family: "Merriweather", serif;
+   font-size: large;
+   
+   
+}  
+
+h3 {
+    color: #11999e;
+    font-family: "montserrat", sans-serif;
+}
+
+.btn {
+    background: #11999e;
+    border-radius: 8px;
+    font-family: "montserrat", sans-serif ;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.button {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #11999e;
+    font-size: 1.2rem;
+}
+
+.name {
+    color: white;
+    padding-top: 20px;
+    
+}
+
+@media (min-width: 576px) and (max-width:1200px) {
+   
+}
